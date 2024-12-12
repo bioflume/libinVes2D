@@ -1,0 +1,101 @@
+one vesicle relaxation convergence test with explicit sdc corrections.
+nsdc: 1
+dt: 0.01,	 area error: 1.5845e-06    ---	length error: 5.9988e-05
+dt: 0.005,	 area error: 1.5212e-05    ---	length error: 4.0398e-05
+dt: 0.0025,	 area error: 2.1749e-05    ---	length error: 1.5899e-05
+dt: 0.00125,	 area error: 2.3306e-05    ---	length error: 4.6105e-06
+nsdc: 2
+dt: 0.01,	 area error: 2.3513e-05    ---	length error: 1.1503e-05
+dt: 0.005,	 area error: 2.223e-05    ---	length error: 4.3112e-06
+dt: 0.0025,	 area error: 2.3295e-05    ---	length error: 7.1999e-07
+dt: 0.00125,	 area error: 2.3518e-05    ---	length error: 8.9564e-08
+nsdc: 3
+dt: 0.01,	 area error: 2.4923e-05    ---	length error: 6.8552e-07
+dt: 0.005,	 area error: 2.3096e-05    ---	length error: 2.8182e-07
+dt: 0.0025,	 area error: 2.3424e-05    ---	length error: 2.494e-08
+dt: 0.00125,	 area error: 2.3504e-05    ---	length error: 1.5541e-09
+nsdc: 4
+dt: 0.01,	 area error: 2.5529e-05    ---	length error: 2.6958e-08
+dt: 0.005,	 area error: 2.3516e-05    ---	length error: 1.4693e-08
+dt: 0.0025,	 area error: 2.3498e-05    ---	length error: 7.4902e-10
+dt: 0.00125,	 area error: 2.3508e-05    ---	length error: 2.3991e-11
+nsdc: 5
+dt: 0.01,	 area error: 2.5432e-05    ---	length error: 1.8162e-09
+dt: 0.005,	 area error: 2.3607e-05    ---	length error: 5.8758e-10
+dt: 0.0025,	 area error: 2.3516e-05    ---	length error: 1.6261e-11
+dt: 0.00125,	 area error: 2.3508e-05    ---	length error: 1.7223e-13
+
+
+one vesicle relaxation convergence test with implicit sdc corrections.
+nsdc: 1
+dt: 0.01,	 area error: 1.5845e-06    ---	length error: 5.9988e-05
+dt: 0.005,	 area error: 1.5212e-05    ---	length error: 4.0398e-05
+dt: 0.0025,	 area error: 2.1749e-05    ---	length error: 1.5899e-05
+dt: 0.00125,	 area error: 2.3306e-05    ---	length error: 4.6105e-06
+nsdc: 2
+dt: 0.01,	 area error: 2.3513e-05    ---	length error: 1.1503e-05
+dt: 0.005,	 area error: 2.223e-05    ---	length error: 4.3112e-06
+dt: 0.0025,	 area error: 2.3295e-05    ---	length error: 7.1999e-07
+dt: 0.00125,	 area error: 2.3518e-05    ---	length error: 8.9564e-08
+nsdc: 3
+dt: 0.01,	 area error: 2.4923e-05    ---	length error: 6.8552e-07
+dt: 0.005,	 area error: 2.3096e-05    ---	length error: 2.8182e-07
+dt: 0.0025,	 area error: 2.3424e-05    ---	length error: 2.494e-08
+dt: 0.00125,	 area error: 2.3504e-05    ---	length error: 1.5541e-09
+nsdc: 4
+dt: 0.01,	 area error: 2.5529e-05    ---	length error: 2.6958e-08
+dt: 0.005,	 area error: 2.3516e-05    ---	length error: 1.4693e-08
+dt: 0.0025,	 area error: 2.3498e-05    ---	length error: 7.4902e-10
+dt: 0.00125,	 area error: 2.3508e-05    ---	length error: 2.3991e-11
+nsdc: 5
+dt: 0.01,	 area error: 2.5432e-05    ---	length error: 1.8162e-09
+dt: 0.005,	 area error: 2.3607e-05    ---	length error: 5.8758e-10
+dt: 0.0025,	 area error: 2.3516e-05    ---	length error: 1.6261e-11
+dt: 0.00125,	 area error: 2.3508e-05    ---	length error: 1.7223e-13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Origin
+one vesicle relaxation convergence test with implicit sdc corrections.
+nsdc: 1
+dt: 0.01,	 area error: 1.5845e-06    ---	length error: 5.9988e-05
+dt: 0.005,	 area error: 1.5212e-05    ---	length error: 4.0398e-05
+dt: 0.0025,	 area error: 2.1749e-05    ---	length error: 1.5899e-05
+dt: 0.00125,	 area error: 2.3306e-05    ---	length error: 4.6105e-06
+nsdc: 2
+dt: 0.01,	 area error: 2.3513e-05    ---	length error: 1.1503e-05
+dt: 0.005,	 area error: 2.223e-05    ---	length error: 4.3112e-06
+dt: 0.0025,	 area error: 2.3295e-05    ---	length error: 7.1999e-07
+dt: 0.00125,	 area error: 2.3518e-05    ---	length error: 8.9564e-08
+nsdc: 3
+dt: 0.01,	 area error: 2.4923e-05    ---	length error: 6.8552e-07
+dt: 0.005,	 area error: 2.3096e-05    ---	length error: 2.8182e-07
+dt: 0.0025,	 area error: 2.3424e-05    ---	length error: 2.494e-08
+dt: 0.00125,	 area error: 2.3504e-05    ---	length error: 1.5541e-09
+nsdc: 4
+dt: 0.01,	 area error: 2.5529e-05    ---	length error: 2.6958e-08
+dt: 0.005,	 area error: 2.3516e-05    ---	length error: 1.4693e-08
+dt: 0.0025,	 area error: 2.3498e-05    ---	length error: 7.4902e-10
+dt: 0.00125,	 area error: 2.3508e-05    ---	length error: 2.3991e-11
+nsdc: 5
+dt: 0.01,	 area error: 2.5432e-05    ---	length error: 1.8162e-09
+dt: 0.005,	 area error: 2.3607e-05    ---	length error: 5.8758e-10
+dt: 0.0025,	 area error: 2.3516e-05    ---	length error: 1.6261e-11
+dt: 0.00125,	 area error: 2.3508e-05    ---	length error: 1.7223e-13
